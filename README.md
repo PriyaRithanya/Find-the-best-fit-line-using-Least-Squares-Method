@@ -52,7 +52,8 @@ plt.show()
 
 ## Output:
 <img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/1f423afa-7b99-4ee8-acbb-d976fa691a71" />
-<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/a8ebdd57-32c0-463b-9eb8-55864187b137" />
+<img width="1301" height="700" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/da3aa969-fd9b-47cc-bb29-511e72748d3b" />
+
 
 
 

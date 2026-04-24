@@ -48,6 +48,10 @@ plt.ylabel("Y")
 plt.legend()
 plt.title("Univariate Linear Regression")
 plt.show()
+
+
+PRIYARITHANYA M
+212225240108
 ```
 
 ## Output:
